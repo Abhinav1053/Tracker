@@ -1,2 +1,2 @@
 # Tracker
-Track one on one with Socket.io
+ A real time location tracker app made using socket.io and Express JS.
